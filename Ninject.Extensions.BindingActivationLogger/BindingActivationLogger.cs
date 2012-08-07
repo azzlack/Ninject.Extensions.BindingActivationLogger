@@ -1,5 +1,9 @@
 ﻿namespace Ninject.Extensions.BindingActivationLogger
 {
+    using Ninject.Activation;
+    using Ninject.Activation.Strategies;
+    using Ninject.Extensions.Logging;
+
     /// <summary>
     /// Component for logging Ninject bindings
     /// </summary>
