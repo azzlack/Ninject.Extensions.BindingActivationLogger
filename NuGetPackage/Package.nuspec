@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Ninject.Extensions.BindingActivationLogger</id>
+    <version>1.0.0</version>
+    <authors>Ove Andersen</authors>
+    <owners>EyeCatch</owners>
+    <projectUrl>http://www.eyecatch.com/projects/ninject-binding-activation-logger/</projectUrl>
+    <iconUrl>http://www.eyecatch.no/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Ninject component for logging bindings activations.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <copyright>Copyright EyeCatch 2012</copyright>
+    <tags></tags>
+    <dependencies>
+      <group targetFramework="net45">
+        <dependency id="Ninject.Extensions.Logging" version="3.0.1.0" />
+        <dependency id="WebActivator" version="1.5.1" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\**" target="lib" />
+    <file src="tools\**" target="tools" />
+    <file src="content\**" target="content" />
+  </files>
+</package>
