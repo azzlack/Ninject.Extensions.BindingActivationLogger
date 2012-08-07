@@ -7,8 +7,8 @@
     <ProjectGuid>{CF1374F9-5168-4219-AB39-D1EC691C08DC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ninject.Web.WebApi.BindingActivationLogger</RootNamespace>
-    <AssemblyName>Ninject.Web.WebApi.BindingActivationLogger</AssemblyName>
+    <RootNamespace>Ninject.Extensions.BindingActivationLogger</RootNamespace>
+    <AssemblyName>Ninject.Extensions.BindingActivationLogger</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>

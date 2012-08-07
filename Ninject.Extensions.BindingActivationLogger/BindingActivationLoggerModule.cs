@@ -1,8 +1,5 @@
-﻿namespace Ninject.Web.WebApi.BindingActivationLogger
+﻿namespace Ninject.Extensions.BindingActivationLogger
 {
-    using Ninject.Activation.Strategies;
-    using Ninject.Modules;
-
     /// <summary>
     /// Module for loading the binding activation logger
     /// </summary>
